@@ -1,2 +1,2 @@
 # pro-webm
-prove generali di Git
+Gist realizzato per raccogliere i suggerimenti alla scrittura del post
